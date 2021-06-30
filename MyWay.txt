@@ -7,4 +7,9 @@ class Hello{
       public static void main(String[] args){
              System.out.println("Hello World");
       }
+      
+      // These are the single line comment
+      /*
+      * These are the mulitiline comment
+      */
 }
