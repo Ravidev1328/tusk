@@ -1,1 +1,10 @@
 Welcome to the programming world !!!!.....
+
+
+The first programme in java hello world
+
+class Hello{
+      public static void main(String[] args){
+             System.out.println("Hello World");
+      }
+}
